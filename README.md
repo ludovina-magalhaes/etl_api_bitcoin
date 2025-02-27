@@ -17,12 +17,12 @@ Antes de executar o projeto, certificar que o ambiente está devidamente configu
 
 1. **Instale as dependências necessárias:**
   
-   pip install requests psycopg2 python-dotenv
+     ``` pip install requests psycopg2 python-dotenv   ```
  
 
 2. **Configure as variáveis de ambiente:**
    Crie um ficheiro '.env' na raiz do projeto e adicione as seguintes variáveis:
-   
+      ```
    DB_NAME=nome_da_base
    DB_USER=utilizador
    DB_PASSWORD=senha
