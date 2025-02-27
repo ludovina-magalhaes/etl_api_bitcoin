@@ -1,4 +1,3 @@
-# etl_api_bitcoin
 # README
 
 ## Projeto: Pipeline de Recolha e Armazenamento de Dados do Bitcoin
