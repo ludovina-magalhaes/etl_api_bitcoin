@@ -51,7 +51,7 @@ O programa executa continuamente o processo ETL (Extração, Transformação e C
 
 ### Uso
 1. **Iniciar o programa:**
-   python script.py
+   `python script.py`
    
 
 2. **Monitorizar a execução:**
